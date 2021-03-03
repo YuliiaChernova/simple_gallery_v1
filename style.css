@@ -1,0 +1,12 @@
+.gallery {
+    padding: 30px;
+}
+
+.album-title {
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.album-title:hover {
+    border: 1px solid lightyellow;
+}
